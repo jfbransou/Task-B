@@ -3,7 +3,7 @@ import { View, Text, StyleSheet } from "react-native";
 import Icon from 'react-native-vector-icons/FontAwesome'
 import commonStyle from "../commonStyle";
 import moment from "moment";
-import 'moment/locale/pt-br'
+import 'moment/locale/pt-br' 
 
 export default (props) => {
 
