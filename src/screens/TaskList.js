@@ -53,7 +53,7 @@ export default class TaksList extends Component {
                         <Text style={styles.title}>Hoje</Text>
                         <Text style={styles.subtitle}>{today}</Text>
                     </View>
-                </ImageBackground >
+                </ImageBackground > 
 
                 <View style={styles.taskList}>
                     {/* <Text style={styles.text}>Tarefa #01</Text>
