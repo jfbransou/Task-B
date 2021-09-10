@@ -14,7 +14,7 @@ import 'moment/locale/pt-br'
 export default class TaksList extends Component {
 
     state = {
-        isReady: false,
+        isReady: false, 
     }
 
     // async componentDidMount() { 
